@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "Site": "whatsup-jamee",
     "public": "public",
     "ignore": [
       "firebase.json",
